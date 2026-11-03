@@ -1106,6 +1106,659 @@
           ]
         }
       ]
+    },
+        {
+      "id": "Mary Little Lamb",
+      "title": "Mary's Little Lamb",
+      "title_vi": "Chú Cừu Nhỏ Của Mary",
+      "subtitle": "Marimba & Soft Key · Pentatonic · 106 BPM",
+      "subtitle_vi": "Marimba & Soft Key · Ngũ cung · 106 BPM",
+      "difficulty": "easy",
+      "accentColor": "#10B981",
+      "bpm": 106,
+      "scale": 0,
+      "key": 0,
+      "beats": [0, 1],
+      "edm": { "enabled": false, "genre": 0, "melody": 80, "bass": 70, "drums": 75 },
+      "guideStrokes": [
+        {
+          "instrument": 1,
+          "points": [
+            [0.06, 0.46], [0.18, 0.56], [0.30, 0.66], [0.42, 0.56],
+            [0.54, 0.46], [0.68, 0.46], [0.80, 0.46], [0.94, 0.36]
+          ]
+        },
+        {
+          "instrument": 0,
+          "points": [
+            [0.10, 0.78], [0.38, 0.72], [0.66, 0.78], [0.92, 0.70]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Row Your Boat",
+      "title": "Row Your Boat Stream",
+      "title_vi": "Chèo Thuyền Trên Sông",
+      "subtitle": "Flute & Pluck · Major · 100 BPM",
+      "subtitle_vi": "Sáo & Pluck · Trưởng · 100 BPM",
+      "difficulty": "easy",
+      "accentColor": "#0EA5E9",
+      "bpm": 100,
+      "scale": 1,
+      "key": 3,
+      "beats": [0, 2],
+      "edm": { "enabled": false, "genre": 0, "melody": 80, "bass": 70, "drums": 75 },
+      "guideStrokes": [
+        {
+          "instrument": 5,
+          "points": [
+            [0.06, 0.68], [0.20, 0.68], [0.34, 0.58], [0.48, 0.50],
+            [0.62, 0.34], [0.78, 0.46], [0.94, 0.64]
+          ]
+        },
+        {
+          "instrument": 4,
+          "points": [
+            [0.12, 0.82], [0.40, 0.74], [0.68, 0.80], [0.92, 0.74]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Frere Jacques",
+      "title": "Morning Bell Chimes",
+      "title_vi": "Kìa Con Bướm Vàng (Frère Jacques)",
+      "subtitle": "Bells & Strings · Major · 110 BPM",
+      "subtitle_vi": "Chuông & Đàn Dây · Trưởng · 110 BPM",
+      "difficulty": "easy",
+      "accentColor": "#F59E0B",
+      "bpm": 110,
+      "scale": 1,
+      "key": 5,
+      "beats": [0, 1],
+      "edm": { "enabled": false, "genre": 0, "melody": 80, "bass": 70, "drums": 75 },
+      "guideStrokes": [
+        {
+          "instrument": 3,
+          "points": [
+            [0.06, 0.64], [0.18, 0.54], [0.30, 0.44], [0.42, 0.64],
+            [0.54, 0.44], [0.66, 0.36], [0.80, 0.28], [0.94, 0.44]
+          ]
+        },
+        {
+          "instrument": 6,
+          "points": [
+            [0.08, 0.80], [0.36, 0.74], [0.64, 0.80], [0.92, 0.74]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Brahms Lullaby",
+      "title": "Starlight Lullaby (Brahms)",
+      "title_vi": "Khúc Hát Ru Ánh Sao (Brahms)",
+      "subtitle": "Chime & Soft Key · Major · 92 BPM",
+      "subtitle_vi": "Chime & Soft Key · Trưởng · 92 BPM",
+      "difficulty": "easy",
+      "accentColor": "#8B5CF6",
+      "bpm": 92,
+      "scale": 1,
+      "key": 7,
+      "beats": [2],
+      "edm": { "enabled": false, "genre": 0, "melody": 80, "bass": 70, "drums": 75 },
+      "guideStrokes": [
+        {
+          "instrument": 7,
+          "points": [
+            [0.06, 0.58], [0.20, 0.58], [0.34, 0.42], [0.48, 0.52],
+            [0.62, 0.32], [0.78, 0.44], [0.94, 0.56]
+          ]
+        },
+        {
+          "instrument": 0,
+          "points": [
+            [0.10, 0.78], [0.42, 0.70], [0.70, 0.76], [0.92, 0.68]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Swan Lake",
+      "title": "Swan Lake Waltz",
+      "title_vi": "Hồ Thiên Nga (Tchaikovsky)",
+      "subtitle": "3 Tracks · Strings, Flute & Piano · 108 BPM",
+      "subtitle_vi": "3 Nét · Đàn Dây, Sáo & Piano · 108 BPM",
+      "difficulty": "medium",
+      "accentColor": "#38BDF8",
+      "bpm": 108,
+      "scale": 2,
+      "key": 9,
+      "beats": [0, 2],
+      "edm": { "enabled": false, "genre": 0, "melody": 80, "bass": 70, "drums": 75 },
+      "guideStrokes": [
+        {
+          "instrument": 5,
+          "points": [
+            [0.06, 0.54], [0.18, 0.70], [0.28, 0.60], [0.38, 0.50],
+            [0.50, 0.42], [0.62, 0.34], [0.74, 0.46], [0.84, 0.38], [0.94, 0.30]
+          ]
+        },
+        {
+          "instrument": 6,
+          "points": [
+            [0.08, 0.66], [0.28, 0.56], [0.52, 0.64], [0.74, 0.54], [0.92, 0.62]
+          ]
+        },
+        {
+          "instrument": 0,
+          "points": [
+            [0.08, 0.84], [0.36, 0.76], [0.64, 0.82], [0.92, 0.76]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "River Flows",
+      "title": "River Flows Gentle",
+      "title_vi": "Dòng Sông Dịu Êm (River Flows)",
+      "subtitle": "3 Tracks · Soft Key, Guitar & Strings · 98 BPM",
+      "subtitle_vi": "3 Nét · Soft Key, Guitar & Đàn Dây · 98 BPM",
+      "difficulty": "medium",
+      "accentColor": "#6366F1",
+      "bpm": 98,
+      "scale": 1,
+      "key": 9,
+      "beats": [0, 2],
+      "edm": { "enabled": false, "genre": 0, "melody": 80, "bass": 70, "drums": 75 },
+      "guideStrokes": [
+        {
+          "instrument": 0,
+          "points": [
+            [0.05, 0.42], [0.14, 0.34], [0.24, 0.42], [0.34, 0.36],
+            [0.46, 0.50], [0.58, 0.32], [0.70, 0.44], [0.82, 0.36], [0.94, 0.48]
+          ]
+        },
+        {
+          "instrument": 11,
+          "points": [
+            [0.08, 0.64], [0.26, 0.56], [0.46, 0.66], [0.68, 0.54], [0.92, 0.62]
+          ]
+        },
+        {
+          "instrument": 6,
+          "points": [
+            [0.10, 0.82], [0.38, 0.76], [0.66, 0.82], [0.92, 0.76]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Blue Danube",
+      "title": "Blue Danube Waltz",
+      "title_vi": "Dòng Sông Xanh (Blue Danube)",
+      "subtitle": "3 Tracks · Strings, Bells & Bass · 118 BPM",
+      "subtitle_vi": "3 Nét · Đàn Dây, Chuông & Bass · 118 BPM",
+      "difficulty": "medium",
+      "accentColor": "#0284C7",
+      "bpm": 118,
+      "scale": 1,
+      "key": 2,
+      "beats": [0, 1, 2],
+      "edm": { "enabled": false, "genre": 0, "melody": 80, "bass": 70, "drums": 75 },
+      "guideStrokes": [
+        {
+          "instrument": 6,
+          "points": [
+            [0.06, 0.66], [0.18, 0.52], [0.30, 0.38], [0.42, 0.24],
+            [0.54, 0.38], [0.66, 0.62], [0.80, 0.44], [0.94, 0.26]
+          ]
+        },
+        {
+          "instrument": 3,
+          "points": [
+            [0.16, 0.30], [0.42, 0.18], [0.68, 0.28], [0.92, 0.18]
+          ]
+        },
+        {
+          "instrument": 8,
+          "points": [
+            [0.08, 0.82], [0.36, 0.74], [0.64, 0.82], [0.92, 0.74]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Vinyl Jazz Cafe",
+      "title": "Vinyl Jazz Cafe",
+      "title_vi": "Đĩa Than Quán Nhạc Jazz",
+      "subtitle": "3 Tracks · Saxophone & Piano · Lo-Fi 90 BPM",
+      "subtitle_vi": "3 Nét · Saxophone & Piano · Lo-Fi 90 BPM",
+      "difficulty": "medium",
+      "accentColor": "#A855F7",
+      "bpm": 90,
+      "scale": 7,
+      "key": 5,
+      "beats": [0, 1],
+      "edm": { "enabled": true, "genre": 3, "melody": 84, "bass": 72, "drums": 72 },
+      "guideStrokes": [
+        {
+          "instrument": 12,
+          "points": [
+            [0.06, 0.52], [0.18, 0.38], [0.32, 0.46], [0.46, 0.30],
+            [0.60, 0.42], [0.76, 0.28], [0.94, 0.38]
+          ]
+        },
+        {
+          "instrument": 0,
+          "points": [
+            [0.08, 0.66], [0.28, 0.58], [0.50, 0.68], [0.72, 0.58], [0.92, 0.64]
+          ]
+        },
+        {
+          "instrument": 8,
+          "points": [
+            [0.08, 0.84], [0.38, 0.78], [0.68, 0.84], [0.92, 0.78]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Mountain King",
+      "title": "Hall of the Mountain King",
+      "title_vi": "Trong Cung Điện Vua Núi (Grieg)",
+      "subtitle": "4 Tracks · Strings, Pluck & Sax · 140 BPM",
+      "subtitle_vi": "4 Nét · Đàn Dây, Pluck & Sax · 140 BPM",
+      "difficulty": "hard",
+      "accentColor": "#7C3AED",
+      "bpm": 140,
+      "scale": 6,
+      "key": 11,
+      "beats": [0, 1, 2, 3],
+      "edm": { "enabled": false, "genre": 0, "melody": 84, "bass": 80, "drums": 82 },
+      "guideStrokes": [
+        {
+          "instrument": 6,
+          "points": [
+            [0.04, 0.68], [0.12, 0.62], [0.20, 0.56], [0.28, 0.50],
+            [0.36, 0.42], [0.44, 0.52], [0.52, 0.44], [0.60, 0.54],
+            [0.68, 0.38], [0.78, 0.28], [0.88, 0.36], [0.96, 0.22]
+          ]
+        },
+        {
+          "instrument": 4,
+          "points": [
+            [0.08, 0.54], [0.24, 0.40], [0.40, 0.52], [0.56, 0.34],
+            [0.74, 0.46], [0.92, 0.28]
+          ]
+        },
+        {
+          "instrument": 12,
+          "points": [
+            [0.14, 0.30], [0.36, 0.22], [0.60, 0.28], [0.86, 0.16]
+          ]
+        },
+        {
+          "instrument": 8,
+          "points": [
+            [0.06, 0.86], [0.24, 0.78], [0.42, 0.86], [0.60, 0.78],
+            [0.78, 0.86], [0.94, 0.78]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Carmen Habanera",
+      "title": "Carmen — Habanera Dance",
+      "title_vi": "Vũ Khúc Habanera (Carmen)",
+      "subtitle": "4 Tracks · Flute, Guitar & Strings · 134 BPM",
+      "subtitle_vi": "4 Nét · Sáo, Guitar & Đàn Dây · 134 BPM",
+      "difficulty": "hard",
+      "accentColor": "#E11D48",
+      "bpm": 134,
+      "scale": 4,
+      "key": 2,
+      "beats": [0, 1, 2],
+      "edm": { "enabled": false, "genre": 0, "melody": 82, "bass": 76, "drums": 78 },
+      "guideStrokes": [
+        {
+          "instrument": 5,
+          "points": [
+            [0.04, 0.26], [0.13, 0.32], [0.22, 0.38], [0.31, 0.44],
+            [0.40, 0.50], [0.49, 0.56], [0.58, 0.48], [0.67, 0.40],
+            [0.76, 0.48], [0.86, 0.56], [0.95, 0.62]
+          ]
+        },
+        {
+          "instrument": 11,
+          "points": [
+            [0.08, 0.64], [0.24, 0.54], [0.40, 0.64], [0.56, 0.54],
+            [0.72, 0.64], [0.92, 0.54]
+          ]
+        },
+        {
+          "instrument": 6,
+          "points": [
+            [0.12, 0.20], [0.36, 0.28], [0.62, 0.20], [0.88, 0.28]
+          ]
+        },
+        {
+          "instrument": 8,
+          "points": [
+            [0.06, 0.84], [0.28, 0.76], [0.50, 0.84], [0.72, 0.76], [0.94, 0.84]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Synthwave Outrun",
+      "title": "Synthwave Outrun 1984",
+      "title_vi": "Đường Đua Synthwave 1984",
+      "subtitle": "4 Tracks · Warm Synth & Guitar · House 138 BPM",
+      "subtitle_vi": "4 Nét · Warm Synth & Guitar · House 138 BPM",
+      "difficulty": "hard",
+      "accentColor": "#EC4899",
+      "bpm": 138,
+      "scale": 7,
+      "key": 9,
+      "beats": [0, 1, 2, 3],
+      "edm": { "enabled": true, "genre": 0, "melody": 88, "bass": 84, "drums": 84 },
+      "guideStrokes": [
+        {
+          "instrument": 2,
+          "points": [
+            [0.05, 0.52], [0.15, 0.36], [0.25, 0.44], [0.36, 0.28],
+            [0.48, 0.40], [0.60, 0.24], [0.72, 0.36], [0.84, 0.20], [0.95, 0.30]
+          ]
+        },
+        {
+          "instrument": 11,
+          "points": [
+            [0.08, 0.64], [0.24, 0.52], [0.42, 0.62], [0.60, 0.48],
+            [0.78, 0.58], [0.94, 0.44]
+          ]
+        },
+        {
+          "instrument": 4,
+          "points": [
+            [0.14, 0.20], [0.38, 0.14], [0.64, 0.20], [0.90, 0.14]
+          ]
+        },
+        {
+          "instrument": 10,
+          "points": [
+            [0.05, 0.84], [0.22, 0.76], [0.40, 0.84], [0.58, 0.76],
+            [0.76, 0.84], [0.95, 0.76]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Samurai Phonk",
+      "title": "Samurai Drift Phonk",
+      "title_vi": "Samurai Phonk Bão Đêm",
+      "subtitle": "4 Tracks · Koto Pluck & Bells · Dubstep 152 BPM",
+      "subtitle_vi": "4 Nét · Đàn Koto & Chuông · Dubstep 152 BPM",
+      "difficulty": "hard",
+      "accentColor": "#EF4444",
+      "bpm": 152,
+      "scale": 8,
+      "key": 4,
+      "beats": [0, 1, 2, 3],
+      "edm": { "enabled": true, "genre": 2, "melody": 90, "bass": 92, "drums": 90 },
+      "guideStrokes": [
+        {
+          "instrument": 4,
+          "points": [
+            [0.04, 0.48], [0.13, 0.34], [0.22, 0.48], [0.31, 0.28],
+            [0.41, 0.44], [0.51, 0.24], [0.61, 0.42], [0.72, 0.22],
+            [0.84, 0.38], [0.96, 0.20]
+          ]
+        },
+        {
+          "instrument": 3,
+          "points": [
+            [0.08, 0.26], [0.24, 0.18], [0.40, 0.28], [0.58, 0.16],
+            [0.76, 0.26], [0.94, 0.14]
+          ]
+        },
+        {
+          "instrument": 9,
+          "points": [
+            [0.06, 0.64], [0.24, 0.56], [0.44, 0.66], [0.64, 0.54],
+            [0.84, 0.64], [0.95, 0.54]
+          ]
+        },
+        {
+          "instrument": 10,
+          "points": [
+            [0.05, 0.86], [0.20, 0.74], [0.36, 0.86], [0.52, 0.74],
+            [0.68, 0.86], [0.84, 0.74], [0.96, 0.84]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "La Campanella",
+      "title": "La Campanella (Liszt)",
+      "title_vi": "Tiếng Chuông La Campanella (Liszt)",
+      "subtitle": "5 Tracks · Extreme Bell Leaps · 162 BPM",
+      "subtitle_vi": "5 Nét · Nhảy Quãng Chuông Siêu Khó · 162 BPM",
+      "difficulty": "master",
+      "accentColor": "#F43F5E",
+      "bpm": 162,
+      "scale": 6,
+      "key": 8,
+      "beats": [0, 1, 2, 3],
+      "edm": { "enabled": false, "genre": 0, "melody": 88, "bass": 80, "drums": 82 },
+      "guideStrokes": [
+        {
+          "instrument": 3,
+          "points": [
+            [0.04, 0.56], [0.10, 0.18], [0.16, 0.52], [0.22, 0.18],
+            [0.28, 0.46], [0.34, 0.18], [0.40, 0.40], [0.46, 0.16],
+            [0.52, 0.50], [0.58, 0.16], [0.64, 0.44], [0.70, 0.16],
+            [0.77, 0.36], [0.84, 0.14], [0.90, 0.32], [0.96, 0.12]
+          ]
+        },
+        {
+          "instrument": 0,
+          "points": [
+            [0.06, 0.34], [0.18, 0.58], [0.30, 0.32], [0.42, 0.56],
+            [0.54, 0.30], [0.66, 0.54], [0.78, 0.28], [0.92, 0.50]
+          ]
+        },
+        {
+          "instrument": 6,
+          "points": [
+            [0.08, 0.68], [0.24, 0.60], [0.40, 0.68], [0.56, 0.58],
+            [0.72, 0.68], [0.90, 0.58]
+          ]
+        },
+        {
+          "instrument": 7,
+          "points": [
+            [0.12, 0.14], [0.36, 0.22], [0.60, 0.12], [0.86, 0.20]
+          ]
+        },
+        {
+          "instrument": 8,
+          "points": [
+            [0.05, 0.86], [0.24, 0.78], [0.44, 0.86], [0.64, 0.78],
+            [0.84, 0.86], [0.96, 0.78]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Fantaisie Impromptu",
+      "title": "Chopin — Fantaisie-Impromptu",
+      "title_vi": "Fantaisie-Impromptu (Chopin)",
+      "subtitle": "5 Tracks · Polyrhythm Piano Storm · 164 BPM",
+      "subtitle_vi": "5 Nét · Bão Dương Cầm Đa Nhịp · 164 BPM",
+      "difficulty": "master",
+      "accentColor": "#6366F1",
+      "bpm": 164,
+      "scale": 6,
+      "key": 1,
+      "beats": [0, 1, 2],
+      "edm": { "enabled": false, "genre": 0, "melody": 88, "bass": 80, "drums": 80 },
+      "guideStrokes": [
+        {
+          "instrument": 0,
+          "points": [
+            [0.04, 0.48], [0.10, 0.34], [0.16, 0.22], [0.22, 0.36],
+            [0.28, 0.50], [0.34, 0.32], [0.40, 0.18], [0.46, 0.34],
+            [0.52, 0.48], [0.58, 0.30], [0.64, 0.16], [0.70, 0.32],
+            [0.77, 0.46], [0.84, 0.28], [0.90, 0.16], [0.96, 0.30]
+          ]
+        },
+        {
+          "instrument": 5,
+          "points": [
+            [0.06, 0.26], [0.20, 0.42], [0.34, 0.24], [0.48, 0.40],
+            [0.62, 0.22], [0.76, 0.38], [0.92, 0.20]
+          ]
+        },
+        {
+          "instrument": 6,
+          "points": [
+            [0.06, 0.64], [0.22, 0.54], [0.38, 0.66], [0.54, 0.54],
+            [0.70, 0.66], [0.88, 0.54]
+          ]
+        },
+        {
+          "instrument": 4,
+          "points": [
+            [0.08, 0.74], [0.28, 0.68], [0.48, 0.76], [0.68, 0.68], [0.92, 0.74]
+          ]
+        },
+        {
+          "instrument": 8,
+          "points": [
+            [0.05, 0.88], [0.24, 0.80], [0.44, 0.88], [0.64, 0.80],
+            [0.84, 0.88], [0.96, 0.80]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Geometry Boss Finale",
+      "title": "Geometry Dash — Boss Finale",
+      "title_vi": "Geometry Dash — Màn Trùm Cuối",
+      "subtitle": "6 Tracks · Hyper Chiptune Drop · 170 BPM",
+      "subtitle_vi": "6 Nét · Nhạc Boss Chiptune Cực Đỉnh · 170 BPM",
+      "difficulty": "master",
+      "accentColor": "#10B981",
+      "bpm": 170,
+      "scale": 5,
+      "key": 5,
+      "beats": [0, 1, 2, 3],
+      "edm": { "enabled": true, "genre": 1, "melody": 94, "bass": 90, "drums": 92 },
+      "guideStrokes": [
+        {
+          "instrument": 9,
+          "points": [
+            [0.03, 0.54], [0.09, 0.28], [0.15, 0.54], [0.21, 0.24],
+            [0.27, 0.50], [0.33, 0.22], [0.39, 0.48], [0.45, 0.20],
+            [0.51, 0.52], [0.57, 0.18], [0.63, 0.48], [0.69, 0.16],
+            [0.76, 0.46], [0.83, 0.16], [0.90, 0.42], [0.96, 0.14]
+          ]
+        },
+        {
+          "instrument": 2,
+          "points": [
+            [0.05, 0.32], [0.16, 0.56], [0.28, 0.30], [0.40, 0.56],
+            [0.52, 0.28], [0.64, 0.54], [0.78, 0.26], [0.94, 0.50]
+          ]
+        },
+        {
+          "instrument": 3,
+          "points": [
+            [0.08, 0.16], [0.26, 0.24], [0.44, 0.14], [0.62, 0.22],
+            [0.80, 0.12], [0.95, 0.20]
+          ]
+        },
+        {
+          "instrument": 4,
+          "points": [
+            [0.06, 0.66], [0.20, 0.58], [0.34, 0.68], [0.48, 0.58],
+            [0.62, 0.68], [0.78, 0.58], [0.94, 0.66]
+          ]
+        },
+        {
+          "instrument": 6,
+          "points": [
+            [0.10, 0.76], [0.36, 0.70], [0.64, 0.76], [0.92, 0.70]
+          ]
+        },
+        {
+          "instrument": 10,
+          "points": [
+            [0.04, 0.88], [0.18, 0.82], [0.32, 0.88], [0.46, 0.82],
+            [0.60, 0.88], [0.74, 0.82], [0.88, 0.88], [0.96, 0.82]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Asturias Guitar Storm",
+      "title": "Asturias — Spanish Guitar Storm",
+      "title_vi": "Bão Guitar Tây Ban Nha (Asturias)",
+      "subtitle": "6 Tracks · Flamenco Virtuoso · 168 BPM",
+      "subtitle_vi": "6 Nét · Tuyệt Kỹ Guitar Flamenco · 168 BPM",
+      "difficulty": "master",
+      "accentColor": "#D97706",
+      "bpm": 168,
+      "scale": 8,
+      "key": 4,
+      "beats": [0, 1, 2, 3],
+      "edm": { "enabled": false, "genre": 0, "melody": 90, "bass": 84, "drums": 84 },
+      "guideStrokes": [
+        {
+          "instrument": 11,
+          "points": [
+            [0.03, 0.60], [0.09, 0.36], [0.15, 0.58], [0.21, 0.36],
+            [0.27, 0.54], [0.33, 0.36], [0.39, 0.50], [0.45, 0.36],
+            [0.51, 0.46], [0.57, 0.36], [0.63, 0.42], [0.69, 0.36],
+            [0.76, 0.52], [0.83, 0.36], [0.90, 0.24], [0.96, 0.36]
+          ]
+        },
+        {
+          "instrument": 4,
+          "points": [
+            [0.05, 0.30], [0.16, 0.48], [0.28, 0.26], [0.40, 0.46],
+            [0.52, 0.24], [0.64, 0.44], [0.78, 0.22], [0.94, 0.42]
+          ]
+        },
+        {
+          "instrument": 5,
+          "points": [
+            [0.08, 0.18], [0.26, 0.28], [0.44, 0.16], [0.62, 0.26],
+            [0.80, 0.14], [0.95, 0.22]
+          ]
+        },
+        {
+          "instrument": 6,
+          "points": [
+            [0.06, 0.68], [0.22, 0.60], [0.38, 0.68], [0.54, 0.60],
+            [0.70, 0.68], [0.88, 0.60]
+          ]
+        },
+        {
+          "instrument": 7,
+          "points": [
+            [0.10, 0.76], [0.38, 0.70], [0.66, 0.76], [0.92, 0.70]
+          ]
+        },
+        {
+          "instrument": 8,
+          "points": [
+            [0.04, 0.88], [0.20, 0.82], [0.36, 0.88], [0.52, 0.82],
+            [0.68, 0.88], [0.84, 0.82], [0.96, 0.88]
+          ]
+        }
+      ]
     }
   ]
 }
